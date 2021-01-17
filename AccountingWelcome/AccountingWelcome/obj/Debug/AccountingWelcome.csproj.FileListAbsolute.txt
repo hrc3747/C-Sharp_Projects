@@ -1,0 +1,7 @@
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.csprojAssemblyReference.cache
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.exe.config
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.exe
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\bin\Debug\AccountingWelcome.pdb
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.exe
+C:\Users\hrene\Desktop\Basic_C#_Programs\AccountingWelcome\AccountingWelcome\obj\Debug\AccountingWelcome.pdb
