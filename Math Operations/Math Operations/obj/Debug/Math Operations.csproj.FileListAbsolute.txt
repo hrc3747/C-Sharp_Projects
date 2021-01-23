@@ -1,0 +1,6 @@
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\bin\Debug\Math Operations.exe.config
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\bin\Debug\Math Operations.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\bin\Debug\Math Operations.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\obj\Debug\Math Operations.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\obj\Debug\Math Operations.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Math Operations\Math Operations\obj\Debug\Math Operations.pdb
