@@ -33,10 +33,19 @@ namespace PackageExpress
                 string input4 = Console.ReadLine();
                 double length = Convert.ToDouble(input4);
 
-                double quote = weight * height * width * length / 100;
+                double size = weight + height + width;
 
-                Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
-                Console.ReadLine();
+                if (size > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                    Console.ReadLine();
+                } else
+                {
+                    double quote = weight * height * width * length / 100;
+
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + quote);
+                    Console.ReadLine();
+                }
             }
         }
     }
