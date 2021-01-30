@@ -19,7 +19,7 @@ namespace Methods
             Console.WriteLine(input2 + " + 10 = " + Math.Multiply(input2));
 
             Console.WriteLine("\nPlease enter an integer to check modulus of divide by 2.");
-            int input3 = Convert.ToInt32(Console.ReadLine());
+            string input3 = Console.ReadLine();
             Console.WriteLine("Modulus = " + Math.Modulus(input3));
 
             Console.ReadLine();

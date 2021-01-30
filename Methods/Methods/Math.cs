@@ -21,9 +21,9 @@ namespace Methods
             return z;
         }
 
-        public static int Modulus(int input3)
+        public static int Modulus(string input3)
         {
-            int a = input3 % 2;
+            int a = Convert.ToInt32(input3) % 2;
             return a;
         }
     }
