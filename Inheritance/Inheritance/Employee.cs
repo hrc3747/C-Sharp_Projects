@@ -32,7 +32,7 @@ namespace Inheritance
 
         //public static bool operator!=(Employee employee1, Employee employee2)
         //{
-        //    return employee1.id == employee2.id;
+        //    return employee1.id != employee2.id;
         //}
     }
 }
