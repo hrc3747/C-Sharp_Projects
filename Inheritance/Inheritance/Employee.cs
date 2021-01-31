@@ -15,5 +15,15 @@ namespace Inheritance
             Console.WriteLine("I'm outta here. - Ex-employee");
             Console.ReadLine();
         }
+
+        public static bool operator== (Employee employee1, Employee employee2)
+        {
+            return employee1.id == employee2.id;
+        }
+
+        public static bool operator!=(Employee employee1, Employee employee2)
+        {
+            return employee1.id == employee2.id;
+        }
     }
 }
