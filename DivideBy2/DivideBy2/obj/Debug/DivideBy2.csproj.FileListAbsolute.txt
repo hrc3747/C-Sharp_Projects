@@ -1,0 +1,7 @@
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\obj\Debug\DivideBy2.csprojAssemblyReference.cache
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\obj\Debug\DivideBy2.csproj.CoreCompileInputs.cache
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\bin\Debug\DivideBy2.exe.config
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\bin\Debug\DivideBy2.exe
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\bin\Debug\DivideBy2.pdb
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\obj\Debug\DivideBy2.exe
+C:\Users\hrene\source\repos\DivideBy2\DivideBy2\obj\Debug\DivideBy2.pdb
