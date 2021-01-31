@@ -6,9 +6,18 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-    public class Employee : Person, IQuittable
+    public class Employee<T> : Person, IQuittable
     {
         public int id { get; set; }
+        public List<T> Things { get; set; }
+
+        public virtual void ListThings()
+        {
+            foreach (T thing in Things)
+            {
+                Console.WriteLine(thing);
+            }
+        }
 
         public void Quit()
         {
@@ -16,14 +25,14 @@ namespace Inheritance
             Console.ReadLine();
         }
 
-        public static bool operator== (Employee employee1, Employee employee2)
-        {
-            return employee1.id == employee2.id;
-        }
+        //public static bool operator== (Employee employee1, Employee employee2)
+        //{
+        //    return employee1.id == employee2.id;
+        //}
 
-        public static bool operator!=(Employee employee1, Employee employee2)
-        {
-            return employee1.id == employee2.id;
-        }
+        //public static bool operator!=(Employee employee1, Employee employee2)
+        //{
+        //    return employee1.id == employee2.id;
+        //}
     }
 }
