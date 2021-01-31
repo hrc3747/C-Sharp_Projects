@@ -4,3 +4,4 @@ C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Inheritance\Inheritance\bin\Deb
 C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
 C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
 C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
