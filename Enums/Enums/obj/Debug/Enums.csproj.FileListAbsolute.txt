@@ -1,0 +1,7 @@
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Enums\Enums\obj\Debug\Enums.pdb
