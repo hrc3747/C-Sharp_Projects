@@ -1,0 +1,7 @@
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\obj\Debug\Struct.csprojAssemblyReference.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Struct\Struct\obj\Debug\Struct.pdb
