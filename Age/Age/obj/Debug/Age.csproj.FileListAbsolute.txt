@@ -1,0 +1,7 @@
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\obj\Debug\Age.csprojAssemblyReference.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\obj\Debug\Age.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\bin\Debug\Age.exe.config
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\bin\Debug\Age.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\bin\Debug\Age.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\obj\Debug\Age.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\Age\Age\obj\Debug\Age.pdb
