@@ -1,0 +1,12 @@
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe.config
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\StudentDatabase.pdb
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.dll
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.xml
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csprojAssemblyReference.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.csproj.CopyComplete
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.exe
+C:\Users\hrene\Documents\GitHub\C-Sharp_Projects\StudentDatabase\StudentDatabase\obj\Debug\StudentDatabase.pdb
