@@ -8,11 +8,14 @@ Projects
 - Package Express
 
 Accounting Welcome
+
 This simple console app prints a message to the console welcoming the user to an accounting app.
 
 Car Insurance
+
 This MVC web application performs the basic functions of a car insurance company website including taking in client data, generating a quote, and displaying the generated quotes on an admin page.
 
 Package Express
+
 This console app takes in user inputs and generates a quote for shipping a package.
 
